@@ -1,0 +1,30 @@
+ <section class="section">
+        <div class="grid-container">
+            <div class="grid-item grid-items-1">
+            <h1 class="herotext">Play In The<br> Competition<br> Rigth Now</h1>
+            <p class="herop">Lets enjoy, play and learn in a great<br>
+                 and priceless place and ern awards.</p>
+            <button class="signup-button">Sign Up</button>
+        </div>
+            <div class="grid-item grid-items-2">
+            <img class="heropng" src="img/ps5con.png">
+            </div>
+        </div>
+    </section>
+
+
+
+flexbox
+<section class="section1">
+        <!---<div class="grid-container">--->
+            <div class="section2">
+            <h1 class="herotext">Play In The<br> Competition<br> Rigth Now</h1>
+            <p class="herop">Lets enjoy, play and learn in a great<br>
+                 and priceless place and ern awards.</p>
+            <button class="signup-button">Sign Up</button>
+        </div>
+            <div class="section2">
+            <img class="heropng" src="img/ps5con.png">
+            </div>
+        <!-----</div>--->
+    </section>
